@@ -1,0 +1,20 @@
+4
+A 10 ore
+B 2 sheep
+C 9 lumber
+D 12 wheat
+E 6 brick
+F 4 sheep
+G 10 brick
+H 9 wheat
+I 11 lumber
+J 0 desert
+K 3 lumber
+L 8 ore
+M 8 lumber
+N 3 ore
+O 4 wheat
+P 5 sheep
+Q 5 brick
+R 6 wheat
+S 12 sheep
