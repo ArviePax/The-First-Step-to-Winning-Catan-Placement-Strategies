@@ -1,5 +1,5 @@
 # The-First-Step-to-Winning-Catan-Placement-Strategies
-This repository holds the code and three example input files for the associated algorithm discussed in the paper of the same title 
+This repository holds the code and three example input files for the associated algorithm discussed in the paper of the same title.
 
 When running the code, use a .txt file as a command line input to get the board into the algorithm.
 
